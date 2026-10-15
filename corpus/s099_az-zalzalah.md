@@ -1,0 +1,12 @@
+# Surah 99: THE QUAKE (az-Zalzalah)
+Source: The Clear Quran, English translation by Talal Itani (ClearQuran edition A; 'Allah' rendering)
+Basmala: In the name of Allah, the Gracious, the Merciful
+
+[99:1] When the earth is shaken with its quake.
+[99:2] And the earth brings out its loads.
+[99:3] And man says, “What is the matter with it?”
+[99:4] On that Day, it will tell its tales.
+[99:5] For your Lord will have inspired it.
+[99:6] On that Day, the people will emerge in droves, to be shown their works.
+[99:7] Whoever has done an atom's weight of good will see it.
+[99:8] And whoever has done an atom's weight of evil will see it.

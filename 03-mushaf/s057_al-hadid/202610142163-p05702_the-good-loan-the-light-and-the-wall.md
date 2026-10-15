@@ -1,0 +1,47 @@
+# The good loan, the running light, and the wall (57:11–19)
+**UID:** 202610142163
+**Type:** Passage / Ruku Note
+**Passage:** 57:11–19 (Ruku 2 of 4 in al-Hadid)
+**Last Studied:** 2026-10-15
+
+## 1. Unit & Thesis
+* **Range:** `[57:11]` – `[57:19]` (9 ayahs)
+* **Thesis:** The ruku poses one question — who will lend Allah a good loan? (11) — and answers it with the Day's optics: believers' light running ahead with good news (12), hypocrites begging to absorb some of it and being handed a wall with a door (13–15), an urgency-warning against hardening like the earlier Book-people (16), the earth revived after death as the proof of what is possible (17), and the loan-verse re-issued in third person with its roster: charitable men and women, the sincere, the witnesses (18–19).
+* **Placement:** The economic-and-eschatological heart of al-Hadid; ruku 1's spend-command (57:7/10) is priced here in loan-and-light grammar, and the wall-scene supplies the canonical nifaq note's settlement-day (it cites 57:13–15 ✓).
+
+## 2. Verse Arc (corpus-anchored)
+* **`[57:11]`** "Who is he who will lend Allah a loan of goodness, that He may double it for him, and will have a generous reward?" — **Gloss:** The qard-verse, exactly as the task flagged (57:11/18 — the spending-logic ✓). "Loan of goodness" here vs 57:18 "loan of righteousness" — one surah, two renderings of the same idiom; the family: `[2:245]` "generous loan", `[64:17]` "good loan", `[73:20]` "generous loan", `[5:12]` "loan of righteousness" (all rg-verified). k-infraq cites 57:18 but NOT 57:11 — flagged.
+* **`[57:12]`** "On the Day when you see the believing men and believing women—their light radiating ahead of them, and to their right: “Good news for you today: gardens beneath which rivers flow, dwelling therein forever. That is the great triumph.”" — **Gloss:** The task's eschatology-verification ✓ 57:12: light running before + "today, good news of gardens" in Itani's words. The light is the reward AND the guide — guidance language turned eschatological (see §7 k-guidance flag).
+* **`[57:13]`** "On the Day when the hypocritical men and hypocritical women will say to those who believed, “Wait for us; let us absorb some of your light.” It will be said, “Go back behind you, and seek light.” A wall will be raised between them, in which is a door; within it is mercy, and outside it is agony." — **Gloss:** The surah's only "hypocrit" hit (rg count: 1 in all 29 ayahs). The label sits exactly where ruku 1's light-verbs end: borrowed light, denied; a wall (kurb?) whose door frames mercy-inside/agony-outside — k-nifaq quotes this verse in its decay-through-the-senses section ✓ (backlink verified).
+* **`[57:14]`** "They will call to them, “Were we not with you?” They will say, “Yes, but you cheated your souls, and waited, and doubted, and became deluded by wishful thinking, until the command of Allah arrived; and arrogance deceived you regarding Allah.”" — **Gloss:** The cross-examination: the with-claim of the world ("Were we not with you?") answered by a four-count ledger — self-cheating, waiting (tarabbus), doubt, ghurur — the same wishful-thinking disease 57:20 will diagnose in the life of play. *Source: observable word-echo (ghurur-family) — verify root-level claim against Arabic.*
+* **`[57:15]`** "“Therefore, today no ransom will be accepted from you, nor from those who disbelieved. The Fire is your refuge. It is your companion—what an evil fate!”" — **Gloss:** The ransom-refusal topos: "no ransom will be accepted" — p00506's verified cluster `[2:48]`, `[2:123]`, `[3:91]`, `[10:54]`, `[57:15]`; the note calls it "a stable eschatological topos" — here it closes the hypocrite-scene. "It is your companion" (mawlā) — the wall's outside becomes a permanent clientage.
+* **`[57:16]`** "Is it not time for those who believe to surrender their hearts to the remembrance of Allah, and to the truth that has come down, and not be like those who were given the Book previously, but time became prolonged for them, so their hearts hardened, and many of them are sinners?" — **Gloss:** The pivot inward: the community is warned against its own delayed hardening — the hardening recipe verbatim-twins `[2:74]` "then after that your hearts hardened" and `[6:43]` "their hearts hardened" (rg-verified). Long-time-prolongation, not sin-event, is the vector. Classical reports connect this verse's pathos to the earliest audience (Source: classical tafsir reports — verify in print).
+* **`[57:17]`** "Know that Allah revives the earth after its death. We thus explain the revelations for you, so that you may understand." — **Gloss:** One natural fact as resurrection-proof: "revives the earth after its death" is a verbatim clause of the sign-dossiers at `[45:5]` and `[16:65]` (rg-verified) — the proof is the parable of 57:20 run in reverse.
+* **`[57:18]`** "The charitable men and charitable women, who have loaned Allah a loan of righteousness—it will be multiplied for them, and for them is a generous reward." — **Gloss:** The 57:11 question answered in third person — the plural, gendered roster; "multiplied" (yuḍāʿafa) is the same verb the k-infraq note tracks at 2:276's charity-growth. Note the frame: 57:11 asked, 57:18 names — the ruku's ring.
+* **`[57:19]`** "Those who believe in Allah and His messengers—these are the sincere and the witnesses with their Lord; they will have their reward and their light. But as for those who disbelieve and deny Our revelations—these are the inmates of the Blaze." — **Gloss:** Two titles for the believers — ṣiddīqīn ("the sincere") and shuhadāʾ ("the witnesses") — and the sentence's closing pair: "their reward AND their light," reclaiming what 57:13 tried to borrow. "The sincere" recurs at `[59:8]` for the emigrants (rg-verified — cross-batch); "the sincere and the witnesses" pairing is corpus-unique here.
+
+## 3. Key Terms & Roots
+* **`qard al-hasana` (the good loan)**:
+  * **Rendering:** 57:11 "loan of goodness"; 57:18 "loan of righteousness" — drift within ten ayahs; elsewhere 5:12 "loan of righteousness", 2:245/73:20 "generous loan", 64:17 "good loan".
+  * **Elsewhere:** the five-site family makes 57 the surah with BOTH of the idiom's English faces; k-infraq's Evidence list runs 57:18 but not 57:11 — flagged.
+* **`nur` (light)**: 57:12 "radiating ahead", 57:13 "absorb some of your light"/"seek light", 57:19 "their reward and their light", 57:28 "a light by which you walk" — the surah's master image; k-nifaq already bills 57:13/57:19 against 2:17/2:20's confiscated light ✓ (verified in the note).
+* **The wall (sayy?)**: 57:13 only — "A wall will be raised between them, in which is a door" — corpus-unique image (rg: single hit for "A wall will be raised"). *Source: observable; identification of the wall with the "surah" barrier of 7:46–47 is extra-corpus — verify.*
+* **`ghurur` (delusion/wishful thinking)**: 57:14 "deluded by wishful thinking... arrogance deceived you regarding Allah"; 57:20 "enjoyment of vanity" — the two ruku share the disease-word family (p00319 already verified the 3:185 "enjoyment of delusion" twin) — cross-batch-earlier; trace `rg "enjoyment of"`.
+* **Ransom (ʿadl/fidyah grammar)**: 57:15 in the refusal-of-ransom cluster listed above — a topos, not a doctrine of substitution; Source: observable corpus cluster.
+
+## 4. Cross-References (The Web)
+* **Within surah:** 57:11↔57:18 ring (question→roster); 57:12–15 light-wall answers 57:9's darkness→light; 57:14's four-count ledger → 57:20's five-count play-list (ruku 3); 57:16 → 57:20 race-to-forgiveness (the cure to hardening is the race).
+* **Parallel:** `[2:17]`, `[2:20]` — light lit and confiscated (k-nifaq's dossier); `[2:74]`, `[6:43]` — hardening recipe; `[2:48]`, `[3:91]`, `[10:54]` — ransom-refusal; `[59:8]` — "the sincere" applied to the emigrants; `[5:12]` — loan-of-righteousness twin.
+* **Parallel:** `[64:17]` — the loan-multiply formula in its Taghabun form (k-infraq cites ✓).
+
+## 5. Superseded Notes (Tombstone Pattern)
+*(None.)*
+
+## 6. Context Notes
+* **Revelation context:** Medinan (classical lists; order 94 — see index). The hypocrite-light scene presupposes a mixed community — the same sitz that k-nifaq gives 2:8–20; *Source: agent inference from the label's presence — verify.*
+* **Asbab / narrative context:** none named in the corpus; extra-corpus reports transmit the effect of 57:16 on early audiences (hearts-surrender scenes) — Source: classical tafsir reports — verify in print before quoting.
+
+## 7. Related Notes
+* **Surah Index:** [al-Hadid index](202610142161-s057_index_hadid.md)
+* **Knowledge Notes:** [Nifaq: the inside trade](../../02-knowledge/202610141300-k-nifaq_the_inside_trade.md) (57:13–15 ✓ cited there — genuine backlink), [Infraq vs riba](../../02-knowledge/202610132004-k-infraq_vs_riba_two_economies.md) (57:11/18 — 11 missing, flagged), [Guidance (hudan)](../../02-knowledge/202610132000-k-guidance_hudan_lil_muttaqin.md) (57:12/19 light-as-reward — not cited; flagged), [Sabr and taqwa](../../02-knowledge/202610132003-k-sabr_and_taqwa.md) (57:16 anti-hardening urgency — no `[57:]` citation in the note; flagged).
+* **Fleeting Notes:** [Basmala numbering](../../01-fleeting/202610132006-f-basmala_numbering_in_this_edition.md), [Corpus extraction artifacts](../../01-fleeting/202610141302-f-corpus_extraction_artifacts_fixed.md) (class-2 typography in this ruku: em-dash quotes and the long dash-opened speech at 57:12 — quote as-is).

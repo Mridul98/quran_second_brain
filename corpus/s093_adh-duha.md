@@ -1,0 +1,15 @@
+# Surah 93: MORNING LIGHT (adh-Duha)
+Source: The Clear Quran, English translation by Talal Itani (ClearQuran edition A; 'Allah' rendering)
+Basmala: In the name of Allah, the Gracious, the Merciful
+
+[93:1] By the morning light.
+[93:2] And the night as it settles.
+[93:3] Your Lord did not abandon you, nor did He forget.
+[93:4] The Hereafter is better for you than the First.
+[93:5] And your Lord will give you, and you will be satisfied.
+[93:6] Did He not find you orphaned, and sheltered you?
+[93:7] And found you wandering, and guided you?
+[93:8] And found you in need, and enriched you?
+[93:9] Therefore, do not mistreat the orphan.
+[93:10] Nor rebuff the seeker.
+[93:11] But proclaim the blessings of your Lord.

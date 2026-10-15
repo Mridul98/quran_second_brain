@@ -1,0 +1,18 @@
+# Surah 61: COLUMN (as-Saff)
+Source: The Clear Quran, English translation by Talal Itani (ClearQuran edition A; 'Allah' rendering)
+Basmala: In the name of Allah, the Gracious, the Merciful
+
+[61:1] Everything in the heavens and the earth praises Allah. He is the Almighty, the Wise.
+[61:2] O you who believe! Why do you say what you do not do?
+[61:3] It is most hateful to Allah that you say what you do not do.
+[61:4] Allah loves those who fight in His cause, in ranks, as though they were a compact structure.
+[61:5] When Moses said to his people, “O my people, why do you hurt me, although you know that I am Allah’s Messenger to you?” And when they swerved, Allah swerved their hearts. Allah does not guide the sinful people.
+[61:6] And when Jesus son of Mary said, “O Children of Israel, I am Allah’s Messenger to you, confirming what preceded me of the Torah, and announcing good news of a messenger who will come after me, whose name is Ahmad.” But when he showed them the miracles, they said, “This is obvious sorcery.”
+[61:7] And who is a greater wrongdoer than he who attributes falsehoods to Allah, when he is being invited to Islam? Allah does not guide the wrongdoing people.
+[61:8] They want to extinguish Allah’s Light with their mouths; but Allah will complete His Light, even though the disbelievers dislike it.
+[61:9] It is He who sent His Messenger with the guidance and the true religion, to make it prevail over all religions, even though the idolaters dislike it.
+[61:10] O you who believe! Shall I inform you of a trade that will save you from a painful torment?
+[61:11] That you believe in Allah and His Messenger, and strive in the cause of Allah with your possessions and yourselves. That is best for you, if you only knew.
+[61:12] He will forgive you your sins; and will admit you into gardens beneath which rivers flow, and into beautiful mansions in the Gardens of Eden. That is the supreme success.
+[61:13] And something else you love: support from Allah, and imminent victory. So give good news to the believers.
+[61:14] O you who believe! Be supporters of Allah, as Jesus son of Mary said to the disciples, “Who are my supporters towards Allah?” The disciples said, “We are Allah's supporters.” So a group of the Children of Israel believed, while another group disbelieved. We supported those who believed against their foe, so they became dominant.

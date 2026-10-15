@@ -1,0 +1,12 @@
+# Surah 94: THE SOOTHING (ash-Sharh)
+Source: The Clear Quran, English translation by Talal Itani (ClearQuran edition A; 'Allah' rendering)
+Basmala: In the name of Allah, the Gracious, the Merciful
+
+[94:1] Did We not soothe your heart?
+[94:2] And lift from you your burden.
+[94:3] Which weighed down your back?
+[94:4] And raised for you your reputation?
+[94:5] With hardship comes ease.
+[94:6] With hardship comes ease.
+[94:7] When your work is done, turn to devotion.
+[94:8] And to your Lord turn for everything.

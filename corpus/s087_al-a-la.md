@@ -1,0 +1,23 @@
+# Surah 87: THE MOST HIGH (al-A’la)
+Source: The Clear Quran, English translation by Talal Itani (ClearQuran edition A; 'Allah' rendering)
+Basmala: In the name of Allah, the Gracious, the Merciful
+
+[87:1] Praise the Name of your Lord, the Most High.
+[87:2] He who creates and regulates.
+[87:3] He who measures and guides.
+[87:4] He who produces the pasture.
+[87:5] And then turns it into light debris.
+[87:6] We will make you read, so do not forget.
+[87:7] Except what Allah wills. He knows what is declared, and what is hidden.
+[87:8] We will ease you into the Easy Way.
+[87:9] So remind, if reminding helps.
+[87:10] The reverent will remember.
+[87:11] But the wretched will avoid it.
+[87:12] He who will enter the Gigantic Fire.
+[87:13] Where he will neither die, nor live.
+[87:14] Successful is he who purifies himself.
+[87:15] And mentions the name of his Lord, and prays.
+[87:16] But you prefer the present life.
+[87:17] Though the Hereafter is better, and more lasting.
+[87:18] This is in the former scriptures.
+[87:19] The Scriptures of Abraham and Moses.

@@ -1,0 +1,9 @@
+# Surah 97: DECREE (al-Qadr)
+Source: The Clear Quran, English translation by Talal Itani (ClearQuran edition A; 'Allah' rendering)
+Basmala: In the name of Allah, the Gracious, the Merciful
+
+[97:1] We sent it down on the Night of Decree.
+[97:2] But what will convey to you what the Night of Decree is?
+[97:3] The Night of Decree is better than a thousand months.
+[97:4] In it descend the angels and the Spirit, by the leave of their Lord, with every command.
+[97:5] Peace it is; until the rise of dawn.
