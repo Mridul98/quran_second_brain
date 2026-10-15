@@ -18,6 +18,9 @@ The Quran's economics of favor runs on one verb: **shukr** — acknowledging the
 * `[27:40]` — the throne-bearer’s instant attribution: "This is from the grace of my Lord, to test me, whether I am grateful or ungrateful. He who is grateful, his gratitude is to his own credit..." — shukr as the audit question at the moment of getting.
 * `[28:78]` — Qarun’s counter-thesis: "I was given all this on account of knowledge I possess." — kufr as self-attribution of favor.
 * `[23:78]` — "It is He who produced for you the hearing, and the eyesight, and the feelings. But little are you grateful." — even the senses are line-items of the favor-account. — divine disapproval persists inside divine independence.
+* `[76:3]` — "We guided him to the way, be he appreciative or unappreciative." — shukr/kufr as the ONLY two postures available on a road already shown (couples with the guidance note).
+* `[78:6–16]` — the Great Event surah’s favor-catalog ("Did We not make the earth a cradle?..." through gardens and dense trees) closes the Day-of-Reality scene: inventory first, verdict after.
+* `[80:24–32]` — "Let man consider his food." — the shortest audit in the book: water, grain, grapes, fodder, and a final clause that even cattle are provisioned — the same circuit as 16:10–18 run in eight verses.
 * The provision-inventories ( `[16:10–18]` water→crops→animals→bees; `[14:32–33]` heavens→water→sun and moon made "to your service"; `[6:99]` water→garden→grapes and palms) all terminate in the shukr demand, not natural history.
 
 ## Practical Reading

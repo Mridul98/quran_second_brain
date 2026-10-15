@@ -18,6 +18,11 @@ The Quran's most distinctive claim is not about content but about **channel**: i
 * `[16:103]` — the corpus’s own rebuttal of the provenance charge: "But the tongue of him they allude to is foreign, while this is a clear Arabic tongue."
 * `[20:113]` — "an Arabic Quran" with diversified warnings; language as chosen medium.
 * `[4:164]` — some messengers narrated, some not: the book admits its own information limits.
+* `[80:13–15]` — the tablet-scriptorium scene: the Reminder is "On honorable pages, Exalted and purified, By the hands of scribes" — a heavenly archetype of the delivered book.
+* `[81:19–21]` — "This is the speech of a noble messenger, Endowed with power, eminent with the Lord of the Throne, Obeyed and honest." — the delivery chain personified (near-verbatim twin of 69:40 ("It is the speech…"); cf. 53:5–6).
+* `[85:21–22]` — "In fact, it is a Glorious Quran, In a Preserved Tablet." — the lawḥ maḥfūẓ claim: the Quran’s location before its recitation (with 80:13–15 and 56:77–79 this completes the three-site Tablet cluster).
+* `[109:1]`, `[112:1]`, `[113:1]`, `[114:1]` — the four closing sūrahs each open with “Say…”: the book scripting the reader’s own voice as the unit ends — revelation not just recited but performed (observable pattern: the qul-series of the final ḥizb).
+
 
 ## Practical Reading
 When a passage claims authority, check which channel-verb is used (anzala/nazzaala/waḥy/rūḥ) and against whom it is contrasted (poetry? soothsaying? — 69:41, 81:22). "How does this passage know it is God talking?" is the question the Quran answers more often than any legal detail — the apologetics of the book are mostly claims about its own delivery.

@@ -19,6 +19,7 @@ The Quran treats guidance (*huda/hidayah*) as its central verb, not a static lab
 * `[17:9]` "This Quran guides to what is most upright..." — guidance by content, not coercion.
 * `[2:257]` — "Allah is the Protecting Friend of those who believe; He brings them out of all darkness and into light" — guidance as transit, the surah’s own darkness→light verb.
 * `[14:5]`, `[57:9]` — the same transit given to Moses and to the Messenger "to bring you out of darkness into the light"; with `[1:6]` this forms a guidance-family rg can pull in one query.
+* `[64:11]` — "No disaster occurs except by Allah’s leave. Whoever believes in Allah, He guides his heart." — guidance as the interior stabilization under calamity, the tightest iman↔hidaya equation in the book.
 
 ## Practical Reading
 At every mention of guidance ask: who is addressed, what condition attaches, what forfeits it, what road-image appears. Read the Fatihah as the question and al-Baqarah 1–7 as the first answer; most downstream "guidance" claims are variations on that pair.

@@ -17,7 +17,10 @@ The Quran reads money as theology made visible. Its counter-thesis to hoarding i
 * `[57:18]`, `[64:17]` — the loan-multiply-forgive formula.
 * `[9:103]` — zakat as purification and sanctification taken by the Messenger.
 * `[63:10]` — the deathbed petition to give — charity as time's deadline.
+* `[76:7–9]` — the feeding triad at its purest: "they feed, for the love of Him, the poor, and the orphan, and the captive" answering themselves: "We only feed you for the sake of Allah. We want from you neither compensation, nor gratitude." — infaq with the social-return wire cut; the deliberate inverse of every riba economy.
 * `[26:181–183]` + `[17:35]` — the measure-and-scale flank: Shu'ayb's commerce sermon "Give full measure, and do not cheat..." and "give full measure... weigh with accurate scales. That is fair, and the best in result" — economic justice as the ledger-side of the same circuit (refrain sites: 11:85, 7:85, 83:1–3 — verify renderings before quoting).
+* `[111:2]` — “His wealth did not avail him, nor did what he acquired.” — the accumulation’s verdict in six words, paired with Qarun ([28:78]) as the book’s two named-case studies of wealth that failed at the audit.
+
 
 ## Practical Reading
 Any passage about wealth is a test between the two economies: **does this money move toward named others, or does it compound toward self?** Track the verb: infaq-verbs with God as counterparty appear most densely in 2:195–274, 3:76–92, 57:18–21, 64:16–17, 103; riba passages cluster at 2:275–279, 3:130 ("do not feed on usury, doubled and redoubled"), 4:161, and 30:39. The economics chapter of the book is one argument with two balance sheets.

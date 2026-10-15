@@ -78,9 +78,7 @@
     60,
     61,
     62,
-    63
-  ],
-  "in_progress": [
+    63,
     64,
     65,
     66,
@@ -104,7 +102,38 @@
     84,
     85
   ],
-  "next_surah": 86,
+  "in_progress": [
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114
+  ],
+  "next_surah": null,
   "preassigned_uids": {
     "s001_index": "202610140901",
     "s001_r1": "202610140902",
@@ -128,7 +157,8 @@
     "202610132005-k-kalam_allah_revelation_as_speech.md",
     "202610141300-k-nifaq_the_inside_trade.md",
     "202610141301-k-isa_quranic_jesus_correction.md",
-    "202610141600-k-shukr_gratitude_audit.md"
+    "202610141600-k-shukr_gratitude_audit.md",
+    "202610150800-k-shaytan_the_declared_enemy.md"
   ],
   "fleeting_notes": [
     "202610132006-f-basmala_numbering_in_this_edition.md",
@@ -141,7 +171,7 @@
     "files": 231,
     "date": "2026-10-14"
   },
-  "ruku_done": 489,
+  "ruku_done": 527,
   "preassigned_uids_wave7": {
     "s023": "1701-1707",
     "s024": "1711-1720",

@@ -59,5 +59,5 @@
 
 ## 7. Related Notes
 * **Surah Index:** [Surah al-Baqarah Index](202610140905-s002_index_al-baqarah.md)
-* **Knowledge Notes:** [Tawhid: the One whom no rivals](../../02-knowledge/202610132001-k-tawhid_the_one_whom_no_rivals.md) (2:169, 2:172 — "if it is Him that you serve"); [Kalam: revelation as speech](../../02-knowledge/202610132005-k-kalam_allah_revelation_as_speech.md) (2:170 "Follow what Allah has revealed"; 2:176 "Allah has revealed the Book in truth")
+* **Knowledge Notes:** [Tawhid: the One whom no rivals](../../02-knowledge/202610132001-k-tawhid_the_one_whom_no_rivals.md) (2:169, 2:172 — "if it is Him that you serve"); [Kalam: revelation as speech](../../02-knowledge/202610132005-k-kalam_allah_revelation_as_speech.md) (2:170 "Follow what Allah has revealed"; 2:176 "Allah has revealed the Book in truth") [Shaytan: the declared enemy and the cure of refuge](../../02-knowledge/202610150800-k-shaytan_the_declared_enemy.md)
 * **Fleeting Notes:** (none for this ruku)
