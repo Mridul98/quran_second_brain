@@ -10,18 +10,28 @@
 * **Placement:** Ruku 1 of 1; the batch's scale-room. 99 taught that even atoms are booked; 100 closed with God "fully informed"; 101 shows the informing becoming presentation: the weights themselves. It is also the middle member of the corpus's Day-naming triad with 69 (The Reality) and the immediate neighbor of 104 (the Crusher).
 
 ## 2. Verse Arc (corpus-anchored)
-* **`[101:1]`–`[101:3]`** "The Shocker. / What is the Shocker? / What will explain to you what the Shocker is?"
-  * **Gloss:** Three-stage ignition: bare name (one word, the surah's title-word — corpus-unique, rg-verified), then the community's own stunned question, then the escalation formula ("What will explain to you…" — the adrāka device, same slots as 69:3 and 104:5). The Event is knowable by name, unknowable by reach.
+* **`[101:1]`** "The Shocker."
+  * **Gloss:** Bare name, one word: the surah's title-word (al-Qāri'ah) — corpus-unique (rg-verified); the Event named before it is defined.
+* **`[101:2]`** "What is the Shocker?"
+  * **Gloss:** The community's own stunned question: the Event interrogated by those who will experience it; the first self-interrogation refuses definition.
+* **`[101:3]`** "What will explain to you what the Shocker is?"
+  * **Gloss:** The escalation formula ("What will explain to you…" — the adrāka device, same slots as 69:3 and 104:5); the Event is knowable by name, unknowable by reach.
 * **`[101:4]`** "The Day when the people will be like scattered moths."
   * **Gloss:** First image-answer: humanity loses its shape — "scattered moths" (farash: moths/motes drawn to flame; phrase corpus-unique, rg-verified) — swarm-without-order, and light--headed toward the fire the surah will name.
 * **`[101:5]`** "And the mountains will be like tufted wool."
   * **Gloss:** Second image: the heaviest known solids become carded wool — weightlessness as resurrection-physics; the full line is an EXACT twin of `[70:9]` "And the mountains will be like tufted wool" (rg-verified).
-* **`[101:6]`–`[101:7]`** "As for he whose scales are heavy. / He will be in a pleasant life."
-  * **Gloss:** The diptych opens on success: the heavy scale (standard of deeds — the same plural "scales" as 23:102) buys not a scene but a quality of existence: "a pleasant life" (naim — near-twin `[69:21]` "in pleasant living", rg-verified; same word-family as the Bliss audited in 102:8).
-* **`[101:8]`–`[101:9]`** "But as for he whose scales are light. / His home is the Abyss."
-  * **Gloss:** The counter-beat: lightness is destitution; his mothering-place is "the Abyss" (al-Hāwiyah — "home" = umm, mother, deliberately answering the surah's maternal imagery; rendering corpus-unique, rg-verified).
-* **`[101:10]`–`[101:11]`** "Do you know what it is? / A Raging Fire."
-  * **Gloss:** The second self-interrogation, now about the Abyss — answered in two words: "A Raging Fire" (nār ḥāmiya; the phrase occurs exactly also at `[70:15]`, rg-verified) — the Abyss is a temperature, and the surah's only description of Hell is heat.
+* **`[101:6]`** "As for he whose scales are heavy."
+  * **Gloss:** The diptych opens on success: the heavy scale (standard of deeds — the same plural "scales" as 23:102) named as the condition.
+* **`[101:7]`** "He will be in a pleasant life."
+  * **Gloss:** The reward: not a scene but a quality of existence — "a pleasant life" (na'īm); near-twin `[69:21]` "in pleasant living" (rg-verified); same word-family as the Bliss audited in 102:8.
+* **`[101:8]`** "But as for he whose scales are light."
+  * **Gloss:** The counter-beat: lightness named as destitution — the scale's deficiency stated as condition.
+* **`[101:9]`** "His home is the Abyss."
+  * **Gloss:** His mothering-place is "the Abyss" (al-Hāwiyah) — "home" = umm, mother, deliberately answering the surah's maternal imagery; rendering corpus-unique (rg-verified).
+* **`[101:10]`** "Do you know what it is?"
+  * **Gloss:** The second self-interrogation, now about the Abyss — the adrāka device returns; the question demands an answer the listener cannot supply.
+* **`[101:11]`** "A Raging Fire."
+  * **Gloss:** The answer in two words: "A Raging Fire" (nār ḥāmiya); the phrase occurs exactly also at `[70:15]` (rg-verified) — the Abyss is a temperature, and the surah's only description of Hell is heat.
 
 ## 3. Key Terms & Roots
 * **`al-Qāri’ah` ("The Shocker")**: the striking Event.

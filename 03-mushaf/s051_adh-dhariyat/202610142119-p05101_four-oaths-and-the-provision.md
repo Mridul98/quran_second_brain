@@ -10,28 +10,48 @@
 * **Placement:** The surah's claim-and-proof opening; its certainty-motif ("what you are promised") reappears in 50:32's Meccan twin and is argued historically in ruku 2, credally in ruku 3.
 
 ## 2. Verse Arc (corpus-anchored)
-* **`[51:1–4]`** "By the spreaders spreading. And those carrying loads. And those moving gently. And those distributing as commanded."
-  * **Gloss:** Four oaths, no named objects — Itani renders active participles only (observable); the classical identifications (winnowing winds, water-bearing clouds, sailing ships, distributing angels — *Source: consensus of classical tafsir, e.g. Ibn Kathir/al-Tabari on 51:1–4 — verify in print*) complete each line's verb; the angels-referent of the fourth is what makes "as commanded" (bi-amr) fit all four rows.
-* **`[51:5–6]`** "What you are promised is true. Judgment will take place."
-  * **Gloss:** The oath's answer in two clauses: promise (wa'd) true, din (judgment/reckoning) occurring — the surah's thesis in six words.
+* **`[51:1]`** "By the spreaders spreading."
+  * **Gloss:** The first oath-creature: dhariyat — active participle, no named object; the classical identification as winnowing winds (*Source: consensus of classical tafsir, e.g. Ibn Kathir/al-Tabari on 51:1–4 — verify in print*) completes the verb; the title-word of the surah, corpus-unique as a noun (rg).
+* **`[51:2]`** "And those carrying loads."
+  * **Gloss:** The second oath-creature: hamalat — load-bearers, no named object; classically identified as water-bearing clouds (*Source: classical tafsir — verify*).
+* **`[51:3]`** "And those moving gently."
+  * **Gloss:** The third oath-creature: jariyat — gentle movers; classically identified as sailing ships (*Source: classical tafsir — verify*).
+* **`[51:4]`** "And those distributing as commanded."
+  * **Gloss:** The fourth oath-creature: muqassimat — distributors; classically identified as angels distributing provision/rain; "as commanded" (bi-amr) makes the angels-referent fit all four rows.
+* **`[51:5]`** "What you are promised is true."
+  * **Gloss:** The oath's answer, first clause: promise (wa'd) certified as true — the surah's thesis in three words.
+* **`[51:6]`** "Judgment will take place."
+  * **Gloss:** The oath's answer, second clause: din (judgment/reckoning) occurring — certainty paired with accountability in six words total.
 * **`[51:7]`** "By the sky that is woven."
   * **Gloss:** Oath #2: hubuk — woven/interlaced; the classical gloss "full of pathways/stars" (*Source: classical tafsir — verify* — the task's "heaven full of pathways" is that gloss, not Itani's line); compare the crack-free sky of `[50:6]`/`[67:3]` — same exhibit, different texture-word.
-* **`[51:8–9]`** "You differ in what you say. Averted from it is he who is averted."
-  * **Gloss:** The sworn conclusion: conflicting speech (the Quran's critics disagree among themselves about what the Book is); v.9's double passive — "averted from it is he who is averted" — fate and refusal in one mirrored line (task claim ✓).
-* **`[51:10–11]`** "Perish the imposters. Those who are dazed in ignorance."
-  * **Gloss:** The curse: "Perish" (tillun) — the destruction-cry whose twin is `[74:19–20]` "May he perish, how he analyzed" (rg-verified); the targets are the kadhdhabūn — Itani's "imposters" (task's "speculators who wander" — the same khawd/speculation cluster lives at `[6:91]` "toying away in their speculation", `[45:32]`, `[52:12]`); "dazed" (sahma — stupefied) in ignorance: speculation as a dizziness, not a method.
+* **`[51:8]`** "You differ in what you say."
+  * **Gloss:** The sworn conclusion, first clause: conflicting speech — the Quran's critics disagree among themselves about what the Book is.
+* **`[51:9]`** "Averted from it is he who is averted."
+  * **Gloss:** The sworn conclusion, second clause: double passive — fate and refusal in one mirrored line; the diverted stay diverted (task claim ✓).
+* **`[51:10]`** "Perish the imposters."
+  * **Gloss:** The curse: "Perish" (tillun) — the destruction-cry whose twin is `[74:19–20]` "May he perish, how he analyzed" (rg-verified); the targets are the kadhdhabūn — Itani's "imposters" (task's "speculators who wander" — the same khawd/speculation cluster lives at `[6:91]` "toying away in their speculation", `[45:32]`, `[52:12]`).
+* **`[51:11]`** "Those who are dazed in ignorance."
+  * **Gloss:** "Dazed" (sahma — stupefied) in ignorance: speculation as a dizziness, not a method; the epithet defines the imposters' epistemic state.
 * **`[51:12]`** "They ask, “When is the Day of Judgment?”"
   * **Gloss:** The imposter's signature question — timing as evasion; near-twin `[75:6]` "He asks, 'When is the Day of Resurrection?'" (rg).
-* **`[51:13–14]`** "The Day they are presented to the Fire. “Taste your ordeal. This is what you used to challenge.”"
-  * **Gloss:** The question answered by presentation (not by a date); "Taste your ordeal" — the tasting-verbs of the Fire (twins: `[22:22]` "Taste the suffering of burning", `[41:16]` "make them taste the punishment of shame" — rg); "what you used to challenge" (isti'jal — impatience as a stance; cf. `[51:59]` "so let them not rush Me").
-* **`[51:15–16]`** "But the pious are amidst gardens and springs. Receiving what their Lord has given them. They were virtuous before that."
-  * **Gloss:** The counter-picture: "amidst gardens and springs" — verbatim-shaped with `[15:45]` "in gardens with springs" (rg); the causal chain: they receive because they gave ("They were virtuous before that" — the past-tense ground of present bliss).
-* **`[51:17–18]`** "They used to sleep a little at night. And at dawn, they would pray for pardon."
+* **`[51:13]`** "The Day they are presented to the Fire."
+  * **Gloss:** The question answered by presentation (not by a date): the imposter's "When?" receives a scene, not a calendar — exposure to the Fire is the answer.
+* **`[51:14]`** ""Taste your ordeal. This is what you used to challenge.""
+  * **Gloss:** "Taste your ordeal" — the tasting-verbs of the Fire (twins: `[22:22]` "Taste the suffering of burning", `[41:16]` "make them taste the punishment of shame" — rg); "what you used to challenge" (isti'jal — impatience as a stance; cf. `[51:59]` "so let them not rush Me").
+* **`[51:15]`** "But the pious are amidst gardens and springs."
+  * **Gloss:** The counter-picture opens: "amidst gardens and springs" — verbatim-shaped with `[15:45]` "in gardens with springs" (rg); the pious receive what the imposters denied.
+* **`[51:16]`** "Receiving what their Lord has given them. They were virtuous before that."
+  * **Gloss:** The causal chain: they receive because they gave ("They were virtuous before that" — the past-tense ground of present bliss); receiving (akhidhūn) as the reward-verb tied to prior virtue.
+* **`[51:17]`** "They used to sleep a little at night."
+  * **Gloss:** The night-to-dawn liturgy begins: sleep-a-little (corpus-unique phrasing, rg) — the pious signature is reduced rest, not comfort; the first half of the virtue-pair that 51:18 completes.
+* **`[51:18]`** "And at dawn, they would pray for pardon."
   * **Gloss:** The night-to-dawn liturgy: sleep-a-little (corpus-unique phrasing, rg) then istighfar at the sahar-hours — the exact twin of `[3:17]` "the seekers of forgiveness at dawn" (rg-verified): the same window in the same position (end of the virtue-list).
 * **`[51:19]`** "And in their wealth, there was a share for the beggar and the deprived."
   * **Gloss:** The portrait's fiscal line-item: a fixed "share" for sa'il (beggar) and mahrum (the deprived — the one whom fortune withholds); verbatim twin `[70:24–25]` "And those in whose wealth is a rightful share. For the beggar and the deprived" (rg; Itani's "rightful" there vs plain "share" here — observable drift) — k-infraq's thesis stated as anatomy of the pious.
-* **`[51:20–21]`** "And on earth are signs for the convinced. And within yourselves. Do you not see?"
-  * **Gloss:** Evidence pivots from wealth to witness: signs for those certain (yaqin — the antidote to 51:11's "dazed in ignorance"); the anas al-anfus move — the self as exhibit: "Do you not see?" (the same verb-pattern as `[50:6]` "Have they not observed...?").
+* **`[51:20]`** "And on earth are signs for the convinced. And within yourselves. Do you not see?"
+  * **Gloss:** Evidence pivots from wealth to witness: signs for those certain (yaqin — the antidote to 51:11's "dazed in ignorance"); the self as exhibit begins here.
+* **`[51:21]`** "And within yourselves. Do you not see?"
+  * **Gloss:** The anas al-anfus move — the self as exhibit: "Do you not see?" (the same verb-pattern as `[50:6]` "Have they not observed...?").
 * **`[51:22]`** "And in the heaven is your livelihood, and what you are promised."
   * **Gloss:** Rizq located in heaven — provision and promise share one address (task claim ✓; Itani "livelihood" for rizq; pair the "distributing as commanded" oath of v.4: distribution has a headquarters).
 * **`[51:23]`** "By the Lord of the heaven and the earth, it is as true as the fact that you speak."

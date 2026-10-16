@@ -100,9 +100,7 @@
     82,
     83,
     84,
-    85
-  ],
-  "in_progress": [
+    85,
     86,
     87,
     88,
@@ -133,6 +131,7 @@
     113,
     114
   ],
+  "in_progress": [],
   "next_surah": null,
   "preassigned_uids": {
     "s001_index": "202610140901",
@@ -147,7 +146,7 @@
     "s005_index": "202610141201",
     "s005_passages": "202610141202..202610141217 (16 ruku)"
   },
-  "last_updated": "2026-10-15",
+  "last_updated": "2026-10-16",
   "knowledge_notes": [
     "202610132000-k-guidance_hudan_lil_muttaqin.md",
     "202610132001-k-tawhid_the_one_whom_no_rivals.md",
@@ -171,7 +170,7 @@
     "files": 231,
     "date": "2026-10-14"
   },
-  "ruku_done": 527,
+  "ruku_done": 556,
   "preassigned_uids_wave7": {
     "s023": "1701-1707",
     "s024": "1711-1720",
@@ -179,5 +178,6 @@
     "s026": "1741-1752",
     "s027": "1761-1768",
     "s028": "1771-1779"
-  }
+  },
+  "status": "complete"
 }

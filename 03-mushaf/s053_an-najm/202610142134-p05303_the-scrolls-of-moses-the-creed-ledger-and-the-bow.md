@@ -24,6 +24,8 @@
   * **Gloss:** The ledger's horizon ("the finality" — every matter's terminus, cf. `[6:67]` "For every happening is a finality") and the first attribute: He authors *both* joy and grief — a single sovereignty over the emotional register the surah itself will demand (60: "laugh, and do not weep?").
 * **`[53:44]`–`[53:46]`** "And that it is He who gives death and life. / And that it is He who created the two kinds—the male and the female. / From a sperm drop, when emitted."
   * **Gloss:** Attributes 2+3: death-and-life in that order; the male/female pair — the very "distribution" (22) that was mocked — is *created by Him*, out of "a sperm drop" (nutfa; twin `[80:19]` "From a sperm drop He created him"); creature-grammar settles the daughters-claim.
+* **`[53:45]`** "And that it is He who created the two kinds—the male and the female."
+  * **Gloss:** The male/female creation-claim as divine attribute: the "bizarre distribution" mocked at `[53:22]` is here affirmed as His creative act — gender-binary originates in tawhid, not nature's accident.
 * **`[53:47]`–`[53:48]`** "And that upon Him is the next existence. / And that it is He who enriches and impoverishes."
   * **Gloss:** Attributes 4+5: "the next existence" — the second creation is *on Him*, a debt of God (exact twin phrase `[29:20]`); enrich/impoverish removes wealth-god from the board (cf. `[53:29]`'s present-life desirers).
 * **`[53:49]`–`[53:50]`** "And that it is He who is the Lord of Sirius. / And that it is He who destroyed the first Aad."

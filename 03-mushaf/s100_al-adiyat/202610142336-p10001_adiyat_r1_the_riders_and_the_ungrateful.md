@@ -10,8 +10,16 @@
 * **Placement:** Ruku 1 of 1. Between 99's speaking earth and 101's named Fire, this surah interiorizes the audit: the outer Day is stated (100:9), the inner one is stated (100:10), the Judge is not described except as KNOWING (100:11).
 
 ## 2. Verse Arc (corpus-anchored)
-* **`[100:1]`–`[100:5]`** "By the racers panting. / Igniting sparks. / Raiding at dawn. / Raising clouds of dust. / Storming into the midst."
-  * **Gloss:** The oath-chain runs as one breath in five frames: galloping (panting as the sound-track), striking fire (hoof or friction — "Igniting sparks"), the hour chosen ("Raiding at dawn"), the blind storm raised ("clouds of dust"), and the penetration ("Storming into the midst") — the target of the raid is never named; the riders are the whole image.
+* **`[100:1]`** "By the racers panting."
+  * **Gloss:** The oath-chain opens with galloping — panting as the sound-track of the chargers.
+* **`[100:2]`** "Igniting sparks."
+  * **Gloss:** Hoof or friction striking fire — the second frame of the raid's kinetic sequence.
+* **`[100:3]`** "Raiding at dawn."
+  * **Gloss:** The hour chosen — the corpus's only violent dawn (cf. mercy/worship dawns at `[51:18]`, `[3:17]`, `[54:34]`, `[17:78]`).
+* **`[100:4]`** "Raising clouds of dust."
+  * **Gloss:** The blind storm raised by the charge — dust as the raid's visible signature.
+* **`[100:5]`** "Storming into the midst."
+  * **Gloss:** The penetration — the target of the raid is never named; the riders are the whole image.
 * **`[100:6]`** "Indeed, the human being is ungrateful to his Lord."
   * **Gloss:** The sworn conclusion (lām-taḥqīq "Indeed"): not "the disbeliever" but THE HUMAN — a present-tense anthropology; *kafūr* rendered "ungrateful," the favor-covering kufr of the shukr circuit (see §3).
 * **`[100:7]`** "And he bears witness to that."

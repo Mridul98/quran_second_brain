@@ -16,8 +16,10 @@
   * **Gloss:** The Book's self-definition against the genre-accusation: "not the speech of a poet" verbatim-family `[69:41]` (verified); "a reminder" formula `[38:87]`, `[74:54]`, and the no-wage-reminder couplet `[12:104]` (verified; echoes 36:21's criterion); "a Clear Quran" is corpus-unique (rg-verified), answering the surah's opening oath "By the Wise Quran" (36:2) — oath opened, definition closes.
 * **`[36:70]`** "That he may warn whoever is alive, and prove the Word against the faithless."
   * **Gloss:** The warning's polarity: the living hear, the Word convicts — "prove the Word against" completes 36:7's "The Word was realized" bracket; alive/dead hearing is the twin-verse of adjacent Fatir, `[35:22]` "Nor are equal the living and the dead… you cannot make those in the graves hear" (verified).
-* **`[36:71–72]`** "Have they not seen that We created for them, of Our Handiwork, livestock that they own? And We subdued them for them. Some they ride, and some they eat."
-  * **Gloss:** Exhibit D, domestic: livestock as owned, subdued, rideable, edible "of Our Handiwork" — creation stated as craft-labor attributed to God (idiom cognate `[38:75]` "what I created with My Own hands", verified); the unwarmed provision-audit of 33–35 restated at animal scale.
+* **`[36:71]`** "Have they not seen that We created for them, of Our Handiwork, livestock that they own?"
+  * **Gloss:** Exhibit D, domestic: livestock as owned "of Our Handiwork" — creation stated as craft-labor attributed to God (idiom cognate `[38:75]` "what I created with My Own hands", verified); the unwarmed provision-audit of 33–35 restated at animal scale.
+* **`[36:72]`** "And We subdued them for them. Some they ride, and some they eat."
+  * **Gloss:** Subjection as ongoing mercy: rideable and edible — the benefits-list continues into 73's surplus; human dominion over animals is itself a gift, not an achievement.
 * **`[36:73]`** "And they have in them other benefits, and drinks. Will they not give thanks?"
   * **Gloss:** Wool, milk, transport — surplus beyond the obvious; the shukr audit-question returns verbatim-mode (cf. 36:35 "Will they not be appreciative?"): the same syntax grading gratitude across plants and animals.
 * **`[36:74]`** "Yet they have taken to themselves gods other than Allah, that perhaps they may be helped."

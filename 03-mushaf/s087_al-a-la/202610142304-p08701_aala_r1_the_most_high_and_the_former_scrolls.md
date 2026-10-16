@@ -22,6 +22,8 @@
   * **Gloss:** Not merely method but road: God eases the prophet *into* ease — kin `[94:5]`–`[94:6]` "With hardship comes ease" and the legislation-clause `[2:185]` "Allah desires ease for you, and does not desire hardship for you" (rg-verified).
 * **`[87:9]`–`[87:11]`** "So remind, if reminding helps. / The reverent will remember. / But the wretched will avoid it."
   * **Gloss:** The mission gets a conditional and a sociology: reminder works on the reverent (muttaqi), is shunned by the wretched (shaqiyy) — the same two-column hearing as 88:8–16 and 50:45's "So remind by the Quran whoever fears My warning" (rg-verified); the reminder-formula also at `[52:29]` "So remind." and `[51:55]` "And remind, for the reminder benefits the believers" (rg-verified).
+* **`[87:10]`** "The reverent will remember."
+  * **Gloss:** The positive reception: the muttaqi receives the reminder — memory as the fruit of reverence, the first column of the hearing-sociology.
 * **`[87:12]`–`[87:13]`** "He who will enter the Gigantic Fire. / Where he will neither die, nor live."
   * **Gloss:** "Gigantic Fire" (an-nar al-kubra) is corpus-unique here (rg-verified). The neither-death-nor-life construction is the near-twin of `[20:74]` "…for him is Hell, where he neither dies nor lives" (same figure, tense differs — rg-verified): the hint's 87↔20:74 cross-ref confirmed at the wording level.
 * **`[87:14]`–`[87:15]`** "Successful is he who purifies himself. / And mentions the name of his Lord, and prays."

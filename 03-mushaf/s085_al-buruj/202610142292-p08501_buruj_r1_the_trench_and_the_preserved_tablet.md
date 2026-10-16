@@ -10,12 +10,16 @@
 * **Placement:** Ruku 1 of 1, and the batch's only full narrative scene. 82 installed watchers, 83 named the registers, 84 handed the books — 85 shows the courtroom's real case and its archive's location.
 
 ## 2. Verse Arc (corpus-anchored)
-* **`[85:1]`–`[85:3]`** "By the sky with the constellations. / And by the Promised Day. / And by the witness and the witnessed."
+* **`[85:1]`–`[85:3]`** "By the sky with the constellations. / And by the Promised day. / And by the witness and the witnessed."
   * **Gloss:** A triple oath climbing from cosmos to deadline to courtroom: the decorated sky (same *buruj* as `[25:61]`/`[15:16]`), "the Promised Day" (exact phrase twin — only here and `[50:20]` — rg-verified), and the paired legal nouns "witness and witnessed" (corpus-unique as a phrase — rg-verified).
+* **`[85:2]`** "And by the Promised day."
+  * **Gloss:** The second oath-term: the deadline named as promise — "the Promised Day" is exact-twin only with `[50:20]` (rg-verified), binding the cosmos-oath to an eschatological certainty.
 * **`[85:4]`** "Destroyed were the People of the Trench."
   * **Gloss:** The oath resolves into a verdict-sentence on the perpetrators — "Destroyed were" reads as a curse on "the People of the Trench," a fire-pit crew named only by their crime; no people, place, or date given (text-neutral — see §6).
 * **`[85:5]`–`[85:7]`** "The fire supplied with fuel. / While they sat around it. / And were witnessing what they did to the believers."
   * **Gloss:** The scene develops in three camera moves: the fire stoked, the persecutors SEATED (the trench as spectator sport), and the damning reframing — they were "witnessing": the false "witnessed" of 85:3 inverted, their own act becoming the evidence.
+* **`[85:6]`** "While they sat around it."
+  * **Gloss:** The persecutors' posture: seated spectators at their own crime — the trench turned into theater, making the witnessing-irony of 85:7 possible.
 * **`[85:8]`–`[85:9]`** "They begrudged them only because they believed in Allah the Almighty, the Praiseworthy. / To Whom belongs the sovereignty of the heavens and the earth. Allah is witness over everything."
   * **Gloss:** The sole charge against the victims: belief — "they begrudged" (*nakamu*) faith itself; and the court is escalated: the believed-in One owns heavens and earth, and "Allah is witness over everything" — the phrase-pair is otherwise only `[41:53]` ("your Lord is witness over everything" — rg-verified), with near-forms at `[22:17]`, `[10:46]`.
 * **`[85:10]`** "Those who tempt the believers, men and women, then do not repent; for them is the punishment of Hell; for them is the punishment of Burning."
@@ -24,6 +28,12 @@
   * **Gloss:** The victims' counter-sentence; "the great triumph" phrase-cluster: `[48:5]`, `[57:12]` (rg-verified) — the reward-tableau counterpart to 83:22–28's bliss scene (Gardens/triumph here, thrones/wine there; no shared triumph-word with 83 — checked).
 * **`[85:12]`–`[85:16]`** "The onslaught of your Lord is severe. / It is He who begins and repeats. / And He is the Forgiving, the Loving. / Possessor of the Glorious Throne. / Doer of whatever He wills."
   * **Gloss:** Five doxology lines answer one fire: severe *dhaqb* (onslaught) — but the same list holds "the Forgiving, the Loving" (a divine-name pairing unique in this corpus — rg-verified), the begin-repeat God (resurrection doctrine — kin `[30:27]`, `[10:34]`), the Throne-owner, and an unconditioned will: the persecutors' fire is not the last word, by constitution.
+* **`[85:13]`** "It is He who begins and repeats."
+  * **Gloss:** The resurrection engine stated bare: creation-and-return without the word "creation" — exact-twin phrasing at `[30:27]` and `[10:34]` (rg-verified).
+* **`[85:14]`** "And He is the Forgiving, the Loving."
+  * **Gloss:** The divine-name pairing unique in this corpus (rg-verified): forgiveness and love named together amid the doxology answering persecution — severity held within mercy.
+* **`[85:15]`** "Possessor of the Glorious Throne."
+  * **Gloss:** Sovereignty asserted as throne-possession: "the Glorious Throne" (*al-'arsh al-majīd*) pairs majesty with authority — the persecutors' earthly power answered by cosmic ownership.
 * **`[85:17]`–`[85:18]`** "Has there come to you the story of the legions? / Of Pharaoh and Thamood?"
   * **Gloss:** A news-formula opening the precedent file — the two canonical destroyed legions; "the story of the legions" re-runs the destruction dossier of `[69:9]` ("Then Pharaoh came, and those before him, and the Overturned Cities") and Thamood's "Overwhelming" (`[69:5]`).
 * **`[85:19]`–`[85:20]`** "In fact, those who disbelieve are in denial. / And Allah encloses them from beyond."

@@ -26,8 +26,12 @@
   * **Gloss:** The argument is elemental — verbatim logic of `[7:12]` (where this edition has "from mud," vs. "from clay" here): comparison of substances instead of obedience to the speaker.
 * **`[38:77]`–`[38:78]`** "He said, "Then get out of here! You are an outcast! / And My curse will be upon you until the Day of Judgment.""
   * **Gloss:** Eviction and curse, term-limited "until the Day of Judgment" — the very Day the mockers tried to skip (38:16).
-* **`[38:79]`–`[38:81]`** "He said, "Lord, defer me until the Day they are resurrected." / He said, "You are one of those deferred. / Until the Day of the Time Appointed.""
+* **`[38:79]`** "He said, "Lord, defer me until the Day they are resurrected.""
+  * **Gloss:** Satan asks for resurrection-day as his deadline — the same request as `[15:36]` "defer me until the Day they are resurrected."
+* **`[38:80]`** "He said, "You are one of those deferred."
   * **Gloss:** The respite granted on God's terms — the same mawqūt formula as `[15:38]` "Until the Day of the time appointed"; Satan asks for resurrection, is answered with an appointed time he will not see arrive.
+* **`[38:81]`** "Until the Day of the Time Appointed.""
+  * **Gloss:** The term-limit named: mawqūt — the Day whose appointment Satan cannot reach (cf. `[15:38]`, `[56:50]`).
 * **`[38:82]`–`[38:83]`** "He said, "By Your majesty, I will seduce them all. / Except for your loyal servants among them.""
   * **Gloss:** The oath and the exception-list: the izza ("majesty") sworn by is the same noun Pharaoh's people swear by at `[26:44]` "By the majesty of Pharaoh"; the exception clause re-appears verbatim-family at `[15:40]` "Except for Your sincere servants among them," `[37:74]` "Except for the sincere servants of Allah," `[12:24]` "one of Our loyal servants" — the whole surah's anthropology folds into mukhlās: those God has exempted from seduction (Source: agent observation on renderings).
 * **`[38:84]`–`[38:85]`** "He said, "The truth is, and I say the truth. / I will fill Hell with you, and with every one of them who follows you.""

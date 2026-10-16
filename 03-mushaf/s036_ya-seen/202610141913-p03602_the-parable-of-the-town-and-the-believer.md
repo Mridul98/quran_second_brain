@@ -16,8 +16,10 @@
   * **Gloss:** Escalation by reinforcement, not by new content — the third joins the chorus "We are messengers to you"; the third messenger has NO independent speech in this corpus (ledger correction to the task's framing).
 * **`[36:15]`** "They said, “You are nothing but humans like us, and the Gracious did not send down anything; you are only lying.”"
   * **Gloss:** The town's twin denial: messenger-modality (mere humans) and revelation itself ("did not send down anything" — a kalam-denial, cf. `[34:43]`'s "fabricated lie" cluster); note "the Gracious" without "Most" here vs "the Most Gracious" at 36:11 — intra-surah name-drift, quoted as-is.
-* **`[36:16–17]`** "They said, “Our Lord knows that we are messengers to you. And our only duty is clear communication.”"
-  * **Gloss:** The envoys' double plea: verification deferred to God's knowledge, mandate limited to balagh — the exact corollary of 36:10–11 (the warner warns; belief is not his to force).
+* **`[36:16]`** "They said, "Our Lord knows that we are messengers to you."
+  * **Gloss:** The envoys' first plea: verification deferred to God's own knowledge — the warner's credibility rests not on self-proof but on divine awareness (corollary of 36:10–11).
+* **`[36:17]`** "And our only duty is clear communication.""
+  * **Gloss:** The envoys' second plea: mandate limited to balagh (clear communication) — belief is not theirs to force; the exact corollary of 36:10–11 (the warner warns; guidance belongs to God).
 * **`[36:18]`** "They said, “We see an evil omen in you; if you do not give up, we will stone you, and a painful punishment from us will befall you.”"
   * **Gloss:** Tit-for-tat superstition and threat; the stoning idiom twins Abraham's father `[19:46]` "I will stone you" and the Cave youths `[18:20]` "they will stone you" (both verified); "evil omen" here vs "ill omen" at `[27:47]` — rendering drift for tiyarah.
 * **`[36:19]`** "They said, “Your evil omen is upon you. Is it because you were reminded? But you are an extravagant people.”"
@@ -28,16 +30,20 @@
   * **Gloss:** The two-criterion test for true envoys: feelessness (refrain family `[11:51]` "I ask you no wage for it; my wage lies with Him who originated me", `[38:86]`, `[12:104]`) and self-guidance — verbatim twins verified.
 * **`[36:22]`** "“And why should I not worship Him Who created me, and to Whom you will be returned?"
   * **Gloss:** The creed turned first-person: worship-the-Creator + return-to-God, the latter verbatim-twin of `[41:21]`'s "to Him you are returned" and the surah's own close `[36:83]`.
-* **`[36:23–24]`** "Shall I take other gods instead of Him? If the Merciful desires harm for me, their intercession will not avail me at all, nor will they save me. In that case, I would be completely lost."
-  * **Gloss:** The tawhid reductio in three moves — other gods cannot intercede, cannot save, and following them is loss (cf. `[13:16]` protectors "who have no power to profit or harm even themselves"; answered at 36:74–75, where gods are "arrayed as troops" yet cannot help).
+* **`[36:23]`** "Shall I take other gods instead of Him? If the Merciful desires harm for me, their intercession will not avail me at all, nor will they save me."
+  * **Gloss:** The tawhid reductio, move one: other gods cannot intercede or save — cf. `[13:16]` protectors "who have no power to profit or harm even themselves"; answered at 36:74–75, where gods are "arrayed as troops" yet cannot help.
+* **`[36:24]`** "In that case, I would be completely lost."
+  * **Gloss:** The tawhid reductio, move two: following powerless gods is total loss — the believer's own verdict on the alternative to monotheism.
 * **`[36:25]`** "I have believed in your Lord, so listen to me.”"
   * **Gloss:** His last complete sentence — a testimony addressed to the very town already committed to stoning; the single close-quote on this line leaves 36:22's opening dangling (class-2 typography, quoted as-is).
 * **`[36:26]`** "It was said, “Enter Paradise.” He said, “If only my people knew."
   * **Gloss:** No killing is narrated — the text jumps from testimony to divine address; martyrdom is implied by "After him" (28) and supplied by transmitted reports (*Source: consensus of classical tafsir — verify in print*); even in honor his first wish is for his people.
 * **`[36:27]`** "How my Lord has forgiven me, and made me one of the honored.”"
   * **Gloss:** Honor stated as the man's own testimony — the task's "We gave him honor" is not this corpus's narrator-line; "one of the honored" cognates `[17:70]`, `[70:35]`; the dangling quote opened at 22 now has this close too — one opening still runs unclosed to the surplus ” at `[36:52]` (typography ledger).
-* **`[36:28–29]`** "After him, We sent down no hosts from heaven to his people; nor would We ever send any down. It was just one Cry, and they were stilled."
-  * **Gloss:** Divine restraint stated twice (no armies — contrast `[2:59]`'s plague from heaven) and then total swiftness: one Cry, stilled — the Cry/Scream family `[54:31]` "a single Scream… crushed hay", `[11:67]` "the Scream struck" (verified; note capitalization drift "Cry" here vs "scream" at 36:53).
+* **`[36:28]`** "After him, We sent down no hosts from heaven to his people; nor would We ever send any down."
+  * **Gloss:** Divine restraint stated twice (no armies — contrast `[2:59]`'s plague from heaven); punishment does not require deployed forces.
+* **`[36:29]`** "It was just one Cry, and they were stilled."
+  * **Gloss:** Total swiftness: one Cry, stilled — the Cry/Scream family `[54:31]` "a single Scream… crushed hay", `[11:67]` "the Scream struck" (verified; note capitalization drift "Cry" here vs "scream" at 36:53).
 * **`[36:30]`** "Alas for the servants. No messenger ever came to them, but they ridiculed him."
   * **Gloss:** The lament universalizes the parable: the town is every town — pattern-verse is `[34:34]` "We sent no warner to any town, without its affluent saying…" (Saba, verified back-link); the Day's own "Alas" cries recur at `[6:31]`, Ya-Sin's at 36:52 "Woe to us!".
 * **`[36:31]`** "Have they not considered how many generations We destroyed before them; and that unto them they will not return?"

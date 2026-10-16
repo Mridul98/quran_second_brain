@@ -30,7 +30,7 @@ The three axes are one argument: what is *granted* (nature) cannot be *taken* by
 
 (2:136 "We make no distinction between any of them" and 2:253 "We gave Jesus son of Mary the clear miracles, and We strengthened him with the Holy Spirit" — verified — place him inside the undifferentiated messenger-list: elevation yes, exception no.)
 
-* `[23:50]` "And We made Mary’s son and his mother a sign, and We sheltered them on high ground with a settled place, and flowing water." — the dossier in one verse: the two are a SIGN (ayya), sheltered, provided — no divinity anywhere in the geography.
+* `[23:50]` "And We made Mary’s son and his mother a sign, and We sheltered them on high ground with security and flowing springs." (23:50) — the dossier in one verse: the two are a SIGN (ayya), sheltered, provided — no divinity anywhere in the geography.
 
 ## Practical Reading
 * `[112:3]` “He begets not, nor was He begotten.” — the dossier’s closing gate: divine sonship is excluded in the book’s own four-line definition of God (axis 1: nature, in its purest form).

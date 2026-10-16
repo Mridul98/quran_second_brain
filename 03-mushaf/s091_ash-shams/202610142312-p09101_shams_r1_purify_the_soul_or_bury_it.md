@@ -12,8 +12,14 @@
 ## 2. Verse Arc (corpus-anchored)
 * **`[91:1]`–`[91:4]`** "By the sun and its radiance. / And the moon as it follows it. / And the day as it reveals it. / And the night as it conceals it."
   * **Gloss:** Four celestial-clock oaths: emission (radiance — the *ḍuḥā*-word that becomes `[93:1]` "By the morning light," rg-verified), succession (moon "follows it"), manifestation (day "reveals it"), concealment (night "conceals it") — the trio "follows/reveals/conceals it" is corpus-unique to 91 (rg-verified), and the object "it" is left deliberately open (sun? all things? — classical glosses differ; *Source: transmitted — verify*). The reveal/conceal pair answers the batch's hidden/exposed axis (86:4–9).
+* **`[91:2]`** "And the moon as it follows it."
+  * **Gloss:** The second oath-term: lunar succession — the moon defined by following (talāhā), a dependency-relation built into the cosmos's timekeeping.
+* **`[91:3]`** "And the day as it reveals it."
+  * **Gloss:** The third oath-term: daylight as manifestation (jalāhā) — the same root-family as "clarity" (jaliyy), making revelation a solar act.
 * **`[91:5]`–`[91:7]`** "And the sky and He who built it. / And the earth and He who spread it. / And the soul and He who proportioned it."
   * **Gloss:** Each oath is now doubled by its Maker: the built sky ("who built it" is corpus-unique as this phrase, rg-verified), the spread earth (the spreader-word shared with `[50:7]`, `[79:30]`, `[88:20]` — rg-verified), and the *proportioned* soul — *sawwā*/"proportioned" joins the soul-craft dossier `[75:38]` "He created and proportioned," `[32:9]` "Then He proportioned him, and breathed into him of His Spirit," `[82:7]` (rg-verified). Cosmos → earth → soul: the escalation is the argument.
+* **`[91:6]`** "And the earth and He who spread it."
+  * **Gloss:** The sixth oath-term: earth as spread surface (daḥāhā) — the spread-word shared with `[50:7]`, `[79:30]`, `[88:20]` (rg-verified), linking the oath to the batch's creation-survey vocabulary.
 * **`[91:8]`** "And inspired it with its wickedness and its righteousness."
   * **Gloss:** The hinge: God *ilhām*-inspires the soul with both polarities — the fajr/taqwa pair rendered "its wickedness and its righteousness" is corpus-unique (rg-verified); inspiration elsewhere in the corpus goes outward (to Moses' mother `[28:7]`, to the bee `[16:68]`, to the earth itself on the Day `[99:5]`) — here it is inward endowment. This is the verse k-sabr's "taqwa names the steering" map needs and currently lacks.
 * **`[91:9]`–`[91:10]`** "Successful is he who purifies it. / Failing is he who corrupts it."

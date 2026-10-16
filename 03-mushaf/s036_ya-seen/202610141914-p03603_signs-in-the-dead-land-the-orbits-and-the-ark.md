@@ -30,8 +30,10 @@
   * **Gloss:** Exhibit C: salvation-history in timber — the Ark twin is `[54:13]` "a craft of planks and nails" (verified); "their offspring" (dhurriyyat) loads the vessel with posterity, i.e., with the resurrection-debate's own subject.
 * **`[36:42]`** "And We created for them the like of it, in which they ride."
   * **Gloss:** The Ark generalizes into all riding-vessels: salvation-tech as ongoing mercy, familiar to the surah's seaborne-audience idiom (Source: agent inference — verify).
-* **`[36:43–44]`** "If We will, We can drown them—with no screaming to be heard from them, nor will they be saved. Except by a mercy from Us, and enjoyment for a while."
-  * **Gloss:** The sea's double memory: drowning without a cry, rescue only by mercy — providence withheld is one sign away from the blast of 49; "enjoyment for a while" prices the reprieve.
+* **`[36:43]`** "If We will, We can drown them—with no screaming to be heard from them, nor will they be saved."
+  * **Gloss:** The sea's dark memory: drowning without a cry — providence withheld is one sign away from the blast of 49; sovereignty held in reserve as pedagogy, "if We will."
+* **`[36:44]`** "Except by a mercy from Us, and enjoyment for a while."
+  * **Gloss:** Rescue only by mercy — "enjoyment for a while" prices the reprieve; the exception clause keeps the audience in suspense between sign and blast.
 * **`[36:45]`** "Yet when it is said to them, “Beware of what lies before you, and what lies behind you, that you may receive mercy.”"
   * **Gloss:** The address no one completes acting on (a period, not a response — the sentence hangs, mirroring their suspension); "before you and behind you" recycles 36:9's double barrier: what was walled is now warned.
 * **`[36:46]`** "Yet never came to them a sign of their Lord’s signs, but they turned away from it."

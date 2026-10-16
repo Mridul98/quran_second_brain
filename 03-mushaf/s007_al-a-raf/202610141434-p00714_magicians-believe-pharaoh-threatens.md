@@ -24,8 +24,12 @@
   * **Gloss:** The duel's verdict sentence: truth established, production nullified.
 * **`[7:119]`** "There they were defeated, and utterly reduced."
   * **Gloss:** Location and humiliation: "there" — on their own ground.
-* **`[7:120]`–`[7:122]`** "And the magicians fell to their knees. / They said, “We have believed in the Lord of the Worlds. / “The Lord of Moses and Aaron.”"
-  * **Gloss:** Prostration and confession — the surah's first human believers in this arc; Aaron enters the titulary because the magicians know the commission (cf. 20:29–36 in the Ta-Ha version).
+* **`[7:120]`** "And the magicians fell to their knees."
+  * **Gloss:** Prostration on their own ground — the surah's first human believers in this arc.
+* **`[7:121]`** "They said, "We have believed in the Lord of the Worlds.""
+  * **Gloss:** The confession of faith — the magicians name the Lord before naming His prophets; belief stated before any threat arrives.
+* **`[7:122]`** ""The Lord of Moses and Aaron.""
+  * **Gloss:** Aaron enters the titulary because the magicians know the commission (cf. 20:29–36 in the Ta-Ha version).
 * **`[7:123]`–`[7:124]`** "Pharaoh said, “Did you believe in Him before I have given you permission? This is surely a conspiracy... You will surely know.” / “I will cut off your hands and your feet on opposite sides; then I will crucify you all.”"
   * **Gloss:** Permission-theology exposed: Pharaoh claims the prerogative of belief; the punishment is the hirabah-style limb-crucifixion list.
 * **`[7:125]`–`[7:126]`** "They said, “It is to our Lord that we will return.” / “You are taking vengeance on us only because we have believed in the signs of our Lord when they have come to us.” “Our Lord! Pour out patience upon us, and receive our souls in submission.”"

@@ -14,30 +14,46 @@
   * **Gloss:** The "Has the story... reached you?" story-form — a Meccan scene-introduction convention; "honorable" — guests with credentials; scene-twins: `[15:51]` "the guests of Abraham" and `[11:69]` "Our messengers came to Abraham with good news" (both rg-verified).
 * **`[51:25]`** "When they entered upon him, they said, “Peace.” He said, “Peace, strangers.”"
   * **Gloss:** The salam-exchange (Itani renders both sides "Peace" — the second word salamun; "strangers" reads the exchange as wary hospitality, not pure liturgy — observable translator choice); the greeting is the scene's whole opening handshake.
-* **`[51:26–27]`** "Then he slipped away to his family, and brought a fatted calf. He set it before them. He said, “Will you not eat?”"
-  * **Gloss:** Task's claim verified ✓ (its self-correction right — no "claim of kinship" language anywhere): "slipped away" — furtive hustle to the pantry, hospitality as speed; "a fatted calf" vs the 11:69 twin "a roasted calf" (Itani's drift: fatted here, roasted there, same scene — rg); the invitation "Will you not eat?" — the host's test-question.
+* **`[51:26]`** "Then he slipped away to his family, and brought a fatted calf."
+  * **Gloss:** Furtive hustle to the pantry: "slipped away" — hospitality as speed; "a fatted calf" vs the 11:69 twin "a roasted calf" (Itani's drift: fatted here, roasted there, same scene — rg).
+* **`[51:27]`** "He set it before them. He said, "Will you not eat?""
+  * **Gloss:** The host's test-question: "Will you not eat?" — the invitation that exposes the guests' non-human nature; task's claim verified ✓ (no "claim of kinship" language anywhere).
 * **`[51:28]`** "And he harbored fear of them. They said, “Do not fear,” and they announced to him the good news of a knowledgeable boy."
   * **Gloss:** Fear when the food is refused (the angels-eat-nothing motif; task's "they said: fear not" ✓ verbatim here); the annunciation: "a knowledgeable boy"; exact-twin phrasing `[15:53]` "we bring you good news of a boy endowed with knowledge" (rg); sibling rendering `[37:101]` "a clement boy" — the Isaac/Ishmael referent is a classical dispute, the surah does not name him (*Source: classical tafsir disagreement — verify*).
 * **`[51:29]`** "His wife came forward crying. She clasped her face, and said, “A barren old woman?”"
   * **Gloss:** Sarah's counter-gesture: striking her face (the cheeks-clasping idiom — *Source: classical lexicography — verify*) against the news; the rhetorical question "A barren old woman?" — the body's arithmetic refusing the promise (the same objection-shape as 11:72's marvel-question, scene-family).
 * **`[51:30]`** "They said, “Thus spoke your Lord. He is the Wise, the Knowing.”"
   * **Gloss:** The answer is not argument but citation: "Thus spoke your Lord" — the name-pair Wise/Knowing seals the annunciation; the promise's ground is divine speech-act, observed in the angels' own sentence-form.
-* **`[51:31–32]`** "He said, “What is your business, O envoys?” They said, “We are sent to a people guilty of sin.”"
-  * **Gloss:** Abraham pivots from guest to intercessor-by-inquiry (cf. 11:74-type pleading in the parallel scene — family note); the envoys' answer: mujrimin — "a people guilty of sin", the crime named before the punishment.
-* **`[51:33–34]`** "“To unleash upon them rocks of clay. Marked by your Lord for the excessive.”"
-  * **Gloss:** The payload: sijjil — "rocks of clay" (lithic rain: twin phrasing `[105:4]` "rocks of baked clay" — rg); "Marked by your Lord" — the stones carry divine tags (Itani rendering choice; no Arabic claim); "for the excessive" — the over-steppers, the surah's shirk-vocabulary.
-* **`[51:35–36]`** "We evacuated all the believers who were in it. But found in it only one household of Muslims."
-  * **Gloss:** The extraction: iman audited household by household — and the census returns one (Lot's); "believers... Muslims" in adjacent lines: the two terms co-refer here (the 49:14 distinction is not operating at this scene — observed usage), the rescue precedes the drop.
+* **`[51:31]`** "He said, "What is your business, O envoys?""
+  * **Gloss:** Abraham pivots from guest to intercessor-by-inquiry (cf. 11:74-type pleading in the parallel scene — family note); the question opens the door to the destruction-commission.
+* **`[51:32]`** "They said, "We are sent to a people guilty of sin.""
+  * **Gloss:** The envoys' answer: mujrimin — "a people guilty of sin", the crime named before the punishment; the mission-statement that transforms guests into agents of judgment.
+* **`[51:33]`** ""To unleash upon them rocks of clay.""
+  * **Gloss:** The payload: sijjil — "rocks of clay" (lithic rain: twin phrasing `[105:4]` "rocks of baked clay" — rg); the weapon named before the target.
+* **`[51:34]`** ""Marked by your Lord for the excessive.""
+  * **Gloss:** "Marked by your Lord" — the stones carry divine tags (Itani rendering choice; no Arabic claim); "for the excessive" — the over-steppers, the surah's shirk-vocabulary.
+* **`[51:35]`** "We evacuated all the believers who were in it."
+  * **Gloss:** The extraction: iman audited household by household — the rescue precedes the drop; "believers" named as the category of those removed.
+* **`[51:36]`** "But found in it only one household of Muslims."
+  * **Gloss:** The census returns one (Lot's): "Muslims" in adjacent line to "believers" — the two terms co-refer here (the 49:14 distinction is not operating at this scene — observed usage).
 * **`[51:37]`** "And We left in it a sign for those who fear the painful punishment."
   * **Gloss:** The archaeological residue: the destroyed city stays as a lesson (sign-lexicon: cf. `[50:8]` "a lesson and a reminder"; the fear-of-punishment receiver = k-sabr's taqwa-ear).
-* **`[51:38–39]`** "And in Moses. We sent him to Pharaoh with a clear authority. But he turned away with his warlords, and said, “A sorcerer or a madman.”"
-  * **Gloss:** The next exhibit's title + scene: "a clear authority" — the phrase's corpus-home: 4:153, 23:45, 40:23, 44:19, 51:38 (rg-complete); Pharaoh's counter-classification "A sorcerer or a madman" — the denial-refrain (Itani's exact words also at 51:52; kin to `[52:29]` "neither a soothsayer, nor a madman" — the Meccan insult-dictionary); "warlords" — corpus-unique for Pharaoh's circle (rg; the identification of the word-group is classical lexicography — verify).
+* **`[51:38]`** "And in Moses. We sent him to Pharaoh with a clear authority."
+  * **Gloss:** The next exhibit's title + commission: "a clear authority" — the phrase's corpus-home: 4:153, 23:45, 40:23, 44:19, 51:38 (rg-complete).
+* **`[51:39]`** "But he turned away with his warlords, and said, "A sorcerer or a madman.""
+  * **Gloss:** Pharaoh's counter-classification "A sorcerer or a madman" — the denial-refrain (Itani's exact words also at 51:52; kin to `[52:29]` "neither a soothsayer, nor a madman" — the Meccan insult-dictionary); "warlords" — corpus-unique for Pharaoh's circle (rg; the identification of the word-group is classical lexicography — verify).
 * **`[51:40]`** "So We seized him and his troops, and threw them into the sea, and He was to blame."
   * **Gloss:** The verdict: seizure, drowning, and one man's own responsibility — "He was to blame": the causal fault lands on Pharaoh, not on the force that drowned him; divine act and human blame in one verse — the surah's compatibilism in miniature (Source: agent inference — verify).
-* **`[51:41–42]`** "And in Aad. We unleashed against them the devastating wind. It spared nothing it came upon, but rendered it like decayed ruins."
-  * **Gloss:** Exhibit three: "the devastating wind" — Itani's rendering choice; the same event elsewhere gets `[69:6]` "a furious, roaring wind" and `[41:16]` "a screaming wind, for a few miserable days" (rg-verified variants); total erasure — whatever it hit became "decayed ruins" (the hollowed-timber image — 69:7's "stumps of hollow palm-trees" is nearby but not here). The task's duration "five nights and eight days" is ✗ for this verse: 51:41–42 gives no clock; `[69:7]` reads "seven nights and eight days, in succession."
-* **`[51:43–45]`** "And in Thamood. They were told, “Enjoy yourselves for a while.” But they defied the command of their Lord, so the lightning struck them as they looked on. They could not rise up, nor could they find help."
-  * **Gloss:** Exhibit four: the deferred enjoyment offered and spent; "the lightning struck them as they looked on" — death in plain sight; the two negatives: no standing up, no helper — power and intercession both gone (functional rhyme with `[74:48]` "the intercession of intercessors will not help them" — theme-twin, rg-verified).
+* **`[51:41]`** "And in Aad. We unleashed against them the devastating wind."
+  * **Gloss:** Exhibit three opens: "the devastating wind" — Itani's rendering choice; the same event elsewhere gets `[69:6]` "a furious, roaring wind" and `[41:16]` "a screaming wind, for a few miserable days" (rg-verified variants).
+* **`[51:42]`** "It spared nothing it came upon, but rendered it like decayed ruins."
+  * **Gloss:** Total erasure — whatever it hit became "decayed ruins" (the hollowed-timber image — 69:7's "stumps of hollow palm-trees" is nearby but not here). The task's duration "five nights and eight days" is ✗ for this verse: 51:41–42 gives no clock; `[69:7]` reads "seven nights and eight days, in succession."
+* **`[51:43]`** "And in Thamood. They were told, "Enjoy yourselves for a while.""
+  * **Gloss:** Exhibit four opens: the deferred enjoyment offered — a reprieve that becomes the test they fail.
+* **`[51:44]`** "But they defied the command of their Lord, so the lightning struck them as they looked on."
+  * **Gloss:** Defiance answered by death in plain sight — "the lightning struck them as they looked on"; the punishment arrives while they watch.
+* **`[51:45]`** "They could not rise up, nor could they find help."
+  * **Gloss:** The two negatives: no standing up, no helper — power and intercession both gone (functional rhyme with `[74:48]` "the intercession of intercessors will not help them" — theme-twin, rg-verified).
 * **`[51:46]`** "And before that, the people of Noah. They were immoral people."
   * **Gloss:** Exhibit five, oldest: the "immoral people" tag — the tafsir tradition reads the same root-word here as at 49:6's "troublemaker" (*Source: classical lexicography — verify*; observable in English: "immoral" vs "troublemaker", one root two words across the brain); the reel stops at the flood.
 

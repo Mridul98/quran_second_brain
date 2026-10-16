@@ -14,16 +14,26 @@
   * **Gloss:** The rupture word here (inshiqaq — "is ruptured") differs from 82:1's "breaks apart" (infitar); and uniquely to this surah, the torn sky is not a victim but an obeying agent ("hearkens"), compelled by its constitution.
 * **`[84:3]`–`[84:5]`** "And when the earth is leveled out. / And casts out what is in it, and becomes empty. / And hearkens to its Lord, as it must."
   * **Gloss:** The earth's three beats — flatten, disgorge, empty — with the identical obedience refrain repeated verbatim (84:2/84:5, the pair is corpus-unique — rg-verified); disgorging twin: `[99:2]` "the earth brings out its loads", "it will tell its tales" because "your Lord will have inspired it" (99:4–5).
+* **`[84:4]`** "And casts out what is in it, and becomes empty."
+  * **Gloss:** The earth's second beat: disgorgement followed by evacuation — the interior emptied so nothing remains hidden for the audit.
 * **`[84:6]`** "O man! You are laboring towards your Lord, and you will meet Him."
   * **Gloss:** The second of the corpus's exactly two "O man!" addresses (with 82:6 — rg-verified). Life is redefined as toil with a destination: the meeting is as certain as the fatigue.
 * **`[84:7]`–`[84:9]`** "As for him who is given his book in his right hand. / He will have an easy settlement. / And will return to his family delighted."
   * **Gloss:** Right-hand receiving → account "easy" — and the scene ends domestically: delighted return to "his family," the mirror of the wicked man's worldly family-joy in 84:13.
+* **`[84:8]`** "He will have an easy settlement."
+  * **Gloss:** The reckoning simplified: "easy" (yasīr) describes not the absence of audit but its painlessness — the file reviewed without terror.
 * **`[84:10]`–`[84:12]`** "But as for him who is given his book behind his back. / He will call for death. / And will enter the Blaze."
   * **Gloss:** The corpus's ONLY "behind his back" handing (rg-verified): not even the left hand (that is `[69:25]`'s version) but a shameful behind-the-back receipt; the verdict-speech is two lines — a death-wish and the Blaze.
+* **`[84:11]`** "He will call for death."
+  * **Gloss:** The wish-speech of the condemned: death invoked as escape from the unendurable — kin to `[69:25]` "I wish I was never given my book" and `[25:27]` "the wrongdoer will bite his hands."
 * **`[84:13]`–`[84:15]`** "He used to be happy among his family. / He thought he would never return. / In fact, his Lord was watching him."
   * **Gloss:** The retro-diagnosis: present euphoria, future-denial ("never return"), answered in five words — "his Lord was watching him"; the English "watching" chains to 82:10's "watchers" (84:15's Arabic is *basira*-type awareness, not *raqib* — *Source: agent inference on standard lexemes — verify*).
+* **`[84:14]`** "He thought he would never return."
+  * **Gloss:** The delusion crystallized: denial of the return (raj'a) as a settled assumption — the cognitive twin of 82:6's ghrur, here voiced as interior monologue.
 * **`[84:16]`–`[84:18]`** "I swear by the twilight. / And by the night, and what it covers. / And by the moon, as it grows full."
   * **Gloss:** A three-term oath on the day's dying: dusk, covering night, full moon — light measured out in its loss; "the night and what it covers" echoes the covering motif of 83:15's "screened."
+* **`[84:17]`** "And by the night, and what it covers."
+  * **Gloss:** The second oath-term: night as envelope — "what it covers" (taghā) links to the covering/screening motif running through 83:15 and 91:4.
 * **`[84:19]`** "You will mount stage by stage."
   * **Gloss:** The oath's resolution — and note the task hint's "among the great tidings/gnarled warnings" corresponds to NO line in s084 (rg-verified; the surah's only "inform them" clause is the warning at 84:24): life is ascent through fixed stages — whether you like the direction or not.
 * **`[84:20]`–`[84:21]`** "What is the matter with them that they do not believe? / And when the Quran is read to them, they do not bow down?"

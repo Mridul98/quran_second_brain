@@ -34,12 +34,16 @@
   * **Gloss:** The covenant's second table — serve Me alone — then its definition: "This is a straight path," the surah answering its own oath-verse 36:4 (bracket closed); tawhid as the path's shape, not a maze of intermediaries (cf. 36:23's no-partners reductio).
 * **`[36:62]`** "He has misled a great multitude of you. Did you not understand?"
   * **Gloss:** The devil's casualty-count stated, then the cognitive taunt ("Did you not understand?" — chain with 31 consider / 68 understand / 77 consider); the waylaying is `[7:16]` Iblis's own vow "I will waylay them on Your straight path" (verified) — the path is booby-trapped by its enemy's own admission.
-* **`[36:63–64]`** "This is Hellfire, which you were promised. Roast in it today, because you persistently disbelieved."
-  * **Gloss:** The other promised thing — demonstrative "This is" points, "which you were promised" rhymes 52's "had promised" (double fulfillment: promise as peace, promise as fire); "persistently" names disbelief as practiced habit, not single act.
+* **`[36:63]`** "This is Hellfire, which you were promised."
+  * **Gloss:** The other promised thing — demonstrative "This is" points; "which you were promised" rhymes 52's "had promised" (double fulfillment: promise as peace at 58, promise as fire here).
+* **`[36:64]`** "Roast in it today, because you persistently disbelieved."
+  * **Gloss:** The verdict executed: "persistently" names disbelief as practiced habit, not single act; the command-form echoes the covenant interrogation of 60–62.
 * **`[36:65]`** "On this Day, We will seal their mouths, and their hands will speak to Us, and their feet will testify to everything they had done."
   * **Gloss:** The sealed mouths of 36:9's enshrouded people finally get their verdict — testimony redistributed to the body; dossier: `[24:24]` tongues/hands/feet testify, `[41:20]` hearing/sight/skins, `[41:21]` "Allah, Who made all things speak, made us speak" (all verified) — and against 36:50 (no will made) every limb files the will by proxy.
-* **`[36:66–67]`** "If We will, We can blind their eyes as they rush towards the path—but how will they see? And if We will, We can cripple them in their place; so they can neither move forward, nor go back."
-  * **Gloss:** The two standing options — blinding mid-rush ("how will they see?" answers 36:9's "cannot see" with irony: the path is rushed toward and cannot be seen), and paralysis in situ ("neither move forward, nor go back" re-runs the double barrier front/behind of 36:9 and the no-return of 36:50) — sovereignty held in reserve as pedagogy, "if We will" twice.
+* **`[36:66]`** "If We will, We can blind their eyes as they rush towards the path—but how will they see?"
+  * **Gloss:** The first standing option — blinding mid-rush; "how will they see?" answers 36:9's "cannot see" with irony: the path is rushed toward and cannot be seen; sovereignty held in reserve, "if We will."
+* **`[36:67]`** "And if We will, We can cripple them in their place; so they can neither move forward, nor go back."
+  * **Gloss:** The second standing option — paralysis in situ; "neither move forward, nor go back" re-runs the double barrier front/behind of 36:9 and the no-return of 36:50; "if We will" twice frames both options as pedagogy, not necessity.
 
 ## 3. Key Terms & Roots
 * **`covenant`**: 36:60's verb-form interrogation.

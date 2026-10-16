@@ -12,10 +12,14 @@
 ## 2. Verse Arc (corpus-anchored)
 * **`[86:1]`–`[86:3]`** "By the sky and at-Tariq. / But what will let you know what at-Tariq is? / The Piercing Star."
   * **Gloss:** The oath transliterates the name, then staggers it with the riddling "But what will let you know…?" formula — corpus-unique in this exact shape; the variant "And what will explain to you…?" recurs at `[90:12]` (the ascent) and `[74:27]` (Saqar) (rg-verified) — then the one-line answer "The Piercing Star." "Piercing" is the family also used for "a piercing projectile" `[37:10]` and "piercing fire" `[15:27]` (rg-verified): the star that *penetrates*.
+* **`[86:2]`** "But what will let you know what at-Tariq is?"
+  * **Gloss:** The riddle-formula inserted between oath-term and answer: a corpus-unique shape of the "what will convey" family, staging the reveal of 86:3.
 * **`[86:4]`** "There is no soul without a Protector over it."
   * **Gloss:** The hinge. Every *nafs* has a *ḥāfiẓ* over it — kin clauses: `[13:11]` "protecting him by Allah's command" and the nearness statement `[50:16]` "We are nearer to him than his jugular vein" (rg-verified). Guarded from outside, watched from inside.
 * **`[86:5]`–`[86:7]`** "Let man consider what he was created from. / He was created from gushing liquid. / Issuing from between the backbone and the breastbones."
   * **Gloss:** An anatomy-of-origin argument: "gushing liquid" shares Its epithet with `[55:66]` "two gushing springs" (rg-verified); "breastbones" appears in the corpus only here and at `[75:26]` "when it has reached the breastbones" — the exit-ring of the same body: the fluid enters where the soul leaves (rg-verified two-site pair). Direct parallel: `[56:58]`–`[56:59]` "Have you seen what you ejaculate? / Is it you who create it, or are We the Creator?"
+* **`[86:6]`** "He was created from gushing liquid."
+  * **Gloss:** The origin-material named: "gushing liquid" (*mā' dāfiq*) — the shared epithet with `[55:66]` "two gushing springs" (rg-verified) links creation-fluid to paradise-water.
 * **`[86:8]`** "He is certainly able to return him."
   * **Gloss:** The same power that made the drop can send him back — resurrection doctrine in the begin-repeat idiom: `[85:13]` "It is He who begins and repeats," `[30:27]`, `[10:34]` (rg-verified).
 * **`[86:9]`–`[86:10]`** "On the Day when the secrets are disclosed. / He will have no strength, and no supporter."
@@ -26,6 +30,8 @@
   * **Gloss:** The verdict on "It" (classically the Quran — source: transmitted gloss — verify): *qawl faṣl*, the adjudicating speech — its word-family runs `[77:4]` "Separating decisively," `[38:20]` "decisive speech," `[26:118]`, `[47:20]` (rg-verified); the negation matches `[21:16]` "We did not create the sky and the earth and what is between them for amusement" (rg-verified).
 * **`[86:15]`–`[86:17]`** "They plot and scheme. / But I plot and scheme. / Therefore, give the blasphemers respite, a brief respite."
   * **Gloss:** The same verb-pair traded between enemies and God — "plot and scheme" otherwise only `[12:5]` (rg-verified); the divine counter-plan is firm per `[68:45]` "My plan is firm"; the commanded stay of execution, "a brief respite," is near-identical to `[73:11]` "give them a brief respite" and kin `[13:32]` (rg-verified). The surah ends not with the plotter crushed but with time still running — the respite *is* the severity held back.
+* **`[86:16]`** "But I plot and scheme."
+  * **Gloss:** The divine counter-move in the same vocabulary: God's plotting answers human plotting verb-for-verb — the symmetry broken only by the first-person pronoun.
 
 ## 3. Key Terms & Roots
 * **`at-Tariq`**: the night-comer; the striker.

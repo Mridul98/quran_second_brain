@@ -18,14 +18,18 @@
   * **Gloss:** The per-utterance clause: qawlin — every word — with a raqib "ready" ('atid); task's "the companion records what he does" is this verse in another edition's clothing (Itani files it under "word", not "deed" — observed drift).
 * **`[50:19]`** "The daze of death has come in truth: “This is what you tried to evade.”"
   * **Gloss:** Death's intoxicating stupor ("the daze of death" — classical sakrat al-mawr — *Source: classical lexicography — verify*) arriving "in truth": the truth 50:5 denied has now shown its face; the second-person slip pulls the audience into the scene mid-narration.
-* **`[50:20–21]`** "And the Trumpet is blown: “This is the Promised Day.” And every soul will come forward, accompanied by a driver and a witness."
-  * **Gloss:** Task's claim verified against the actual edition: Itani reads "And the Trumpet is blown: 'This is the Promised Day'" — the "threatened toil/trumpet of will" phrasing is another translation (0 hits, rg); "driver and a witness" ✓ verbatim — one escorting, one testifying, per soul; the Trumpet sounds eight other times in the corpus (18:99, 20:102, 27:87, 36:51, 39:68, 69:13, 74:8, 78:18 — rg); the fullest twin is `[39:68]` — sounded, all stunned, then sounded again and they rise up looking on.
+* **`[50:20]`** "And the Trumpet is blown: "This is the Promised Day.""
+  * **Gloss:** The Trumpet sounds to announce the Promised Day — Itani reads "And the Trumpet is blown: 'This is the Promised Day'"; the Trumpet sounds eight other times in the corpus (18:99, 20:102, 27:87, 36:51, 39:68, 69:13, 74:8, 78:18 — rg); the fullest twin is `[39:68]` — sounded, all stunned, then sounded again and they rise up looking on.
+* **`[50:21]`** "And every soul will come forward, accompanied by a driver and a witness."
+  * **Gloss:** Every soul escorted: "driver and a witness" ✓ verbatim — one escorting, one testifying, per soul; the dual-escort establishes the courtroom procedure for the reckoning that follows.
 * **`[50:22]`** "“You were in neglect of this, so We lifted your screen from you, and your vision today is keen.”"
   * **Gloss:** Task's cover/sharp-sight line ✓ ("We lifted your screen... your vision today is keen"); the screen (sitr) belongs to a motif-family: hearts screened `[41:5]`, eyes screened from "My message" `[18:101]`, and the Day when they "will be screened from their Lord" `[83:15]` (all rg-verified) — here the screen is cut, and the cost of the cut is that everything recorded is now seen.
 * **`[50:23]`** "And His escort will say, “This is what I have ready with me.”"
   * **Gloss:** The qarīn ("escort" — the same word as 50:27's "His escort"; corpus-noun-uses complete at these two + the verb at `[9:6]` "escort him to his place of safety", rg) presents the file: "what I have ready" — the 'atid-work of 50:18 finally delivered.
-* **`[50:24–25]`** "“Throw into Hell every stubborn disbeliever. Preventer of good, aggressor, doubter.”"
-  * **Gloss:** The dump-list, four traits (*the Arabic identifications kaffar/mu'tadin/murtab are classical lexicography — verify*): stubbornness, obstruction of good, aggression, doubt — the 50:5 "confused state" and 50:15 "doubt of a new creation" finally labeled. The roster style matches the surah's own precedent-register (12–14): the type recurs.
+* **`[50:24]`** ""Throw into Hell every stubborn disbeliever."
+  * **Gloss:** The dump-command opens: stubbornness (kaffar — classical lexicography, verify) as the first trait; the imperative "Throw" addresses the escorts/angels of execution.
+* **`[50:25]`** "Preventer of good, aggressor, doubter.""
+  * **Gloss:** Three more traits stacked: obstruction of good (mu'tadin), aggression, doubt (murtab) — the 50:5 "confused state" and 50:15 "doubt of a new creation" finally labeled; the roster style matches the surah's own precedent-register (12–14): the type recurs.
 * **`[50:26]`** "“Who fabricated another god with Allah; toss him into the intense agony.”"
   * **Gloss:** The fifth and summit trait: setting up another god alongside Allah — the shirk that all the k-tawhid verses police; the verb ("fabricated") puts partnership as a made thing, not a found one; "intense agony" names the Fire's burn-level (sa'ir — classical lexicography, verify).
 * **`[50:27]`** "His escort will say, “Our Lord, I did not make him rebel, but he was far astray.”"

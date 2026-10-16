@@ -14,7 +14,7 @@ Tawhid in the Quran is not a philosophical proposition but a double exclusion: *
 * `[59:22]` "He is Allah... the Knower of secrets and declarations..." — the oneness list closes with sovereignty over the unseen.
 * `[112:1–4]` — the counter-claim to lineage theology whole: “Allah, the Absolute” (al-ɢamad — this edition’s unique rendering) followed by the double negation of begetting and the final “And there is nothing comparable to Him.”
 * `[23:84–89]` — the triple interrogation: "To whom does the earth belong...?" — "To Allah." — "Will you not reflect?" repeated through heaven, Throne, dominion, protection: the pagans’ own admissions convict their partners. This is the book’s courtroom method for tawhid.
-* `[23:91]`, `[23:116]` — "Allah has never begotten a son, nor is there any god besides Him. Otherwise, each god would have taken away what he created..." with the close "There is no god except He, the Lord of the Noble Throne." — the competing-gods reductio, sealed by doxology.
+* `[23:91]`, `[23:116]` — "Allah has never begotten a son, nor is there any god besides Him. Otherwise, each god would have taken away what it has created, and some of them would have gained supremacy over others." — the same passage closes: "There is no god except He, the Lord of the Noble Throne." — the competing-gods reductio, sealed by doxology.
 * `[114:1–3]` — "Say, “I seek refuge in the Lord of mankind. The King of mankind. The God of mankind." — the creed compressed into a three-name ladder on the lips of every reciter; the Quran’s last words before its final surah’s object (Rabb→Malik→Ilāh: nurture, sovereignty, divinity).
 
 ## Practical Reading

@@ -12,6 +12,10 @@
 ## 2. Verse Arc (corpus-anchored)
 * **`[82:1]`–`[82:4]`** "When the sky breaks apart. / When the planets are scattered. / When the oceans are exploded. / When the tombs are strewn around."
   * **Gloss:** Four "when"-clauses dismantle the cosmos top-down — firmament, fixed lights, waters, and finally the burial places, so the teardown ends exactly where human remains were stored.
+* **`[82:2]`** "When the planets are scattered."
+  * **Gloss:** The second rupture: the fixed lights (kawakib) lose their orbits — cosmic order undone between sky and sea.
+* **`[82:3]`** "When the oceans are exploded."
+  * **Gloss:** The third rupture: the bounded waters burst — the seas that were once barriers become eruptions, undoing the earth's surface from below.
 * **`[82:5]`** "Each soul will know what it has advanced, and what it has deferred."
   * **Gloss:** The oaths' resolution: the upheavals exist for this self-reckoning — sent-ahead deeds and postponed ones, a ledger in two columns. (*Source: agent inference on the classical unanswered-apodosis oath form — verify.*)
 * **`[82:6]`** "O man! What deluded you concerning your Lord, the Most Generous?"
@@ -22,6 +26,8 @@
   * **Gloss:** The pivot: the recipient of all this treats the din — reckoning and way alike — as untrue. Corpus-unique phrase-twin: `[95:7]` "So why do you still reject the religion?" (rg-verified).
 * **`[82:10]`–`[82:12]`** "Though over you are watchers. / Honest recorders. / They know everything you do."
   * **Gloss:** Denial does not empty the file: position (over you), character (honest), function (they know everything you do). The pair "watchers… recorders" is corpus-unique (rg-verified); the nearest dossier-mates are `[50:17–18]` "a watcher by him, ready" and `[50:4]` "with Us is a comprehensive book."
+* **`[82:11]`** "Honest recorders."
+  * **Gloss:** The second descriptor of the heavenly cleristry: "honest" (kirām) qualifies the recording function — the archive is kept by those incapable of falsification.
 * **`[82:13]`–`[82:14]`** "The virtuous will be in bliss. / While the wicked will be in Hell."
   * **Gloss:** The two camps; 82:13 is the formula-twin of `[83:22]` "the righteous will be amid bliss" (rg-verified rendering drift for the same class).
 * **`[82:15]`–`[82:16]`** "They will enter it on the Day of Justice. / And they will not be absent from it."
